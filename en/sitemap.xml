@@ -2,114 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50635/en/categories/</loc>
+    <loc>https://china-ko.github.io.git/en/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/categories/"
+                href="https://china-ko.github.io.git/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:50635/ar/categories/"
+                href="https://china-ko.github.io.git/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/categories/"
+                href="https://china-ko.github.io.git/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:50635/en/p/test-chinese/</loc>
+    <loc>https://china-ko.github.io.git/en/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/p/test-chinese/"
+                href="https://china-ko.github.io.git/p/test-chinese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/p/test-chinese/"
+                href="https://china-ko.github.io.git/en/p/test-chinese/"
                 />
   </url><url>
-    <loc>http://localhost:50635/en/</loc>
+    <loc>https://china-ko.github.io.git/en/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/"
+                href="https://china-ko.github.io.git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:50635/ar/"
+                href="https://china-ko.github.io.git/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/"
+                href="https://china-ko.github.io.git/en/"
                 />
   </url><url>
-    <loc>http://localhost:50635/en/post/</loc>
+    <loc>https://china-ko.github.io.git/en/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/post/"
+                href="https://china-ko.github.io.git/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:50635/ar/post/"
+                href="https://china-ko.github.io.git/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/post/"
+                href="https://china-ko.github.io.git/en/post/"
                 />
   </url><url>
-    <loc>http://localhost:50635/en/categories/test/</loc>
+    <loc>https://china-ko.github.io.git/en/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/categories/test/"
+                href="https://china-ko.github.io.git/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/categories/test/"
+                href="https://china-ko.github.io.git/en/categories/test/"
                 />
   </url><url>
-    <loc>http://localhost:50635/en/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://china-ko.github.io.git/en/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/categories/%E6%B5%8B%E8%AF%95/"
+                href="https://china-ko.github.io.git/categories/%E6%B5%8B%E8%AF%95/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/categories/%E6%B5%8B%E8%AF%95/"
+                href="https://china-ko.github.io.git/en/categories/%E6%B5%8B%E8%AF%95/"
                 />
   </url><url>
-    <loc>http://localhost:50635/en/tags/</loc>
+    <loc>https://china-ko.github.io.git/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:50635/tags/"
+                href="https://china-ko.github.io.git/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:50635/ar/tags/"
+                href="https://china-ko.github.io.git/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:50635/en/tags/"
+                href="https://china-ko.github.io.git/en/tags/"
                 />
   </url>
 </urlset>
